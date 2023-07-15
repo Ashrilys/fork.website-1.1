@@ -52,5 +52,5 @@
   "description": "Website",
   "engines": {
     "node": "16.x"
-  },
+  }
 }
